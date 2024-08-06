@@ -28,7 +28,7 @@ justify-content: space-around;
 }
 
 .contents {
-  border: solid 3px rgb(236, 122, 122);
+  border: solid 3px rgb(238,204,204);
   flex-basis: 25%;
   padding: 10px 15px;
   margin: 20px 0;
@@ -37,7 +37,7 @@ justify-content: space-around;
 
 h2 {
   font-size: 25px;
-  border-bottom: dotted 3px rgb(239, 111, 139);
+  border-bottom: dotted 3px rgb(236, 122, 122);
 }
 
 h2::before{
